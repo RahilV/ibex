@@ -1,0 +1,206 @@
+  <!DOCTYPE html>
+  <?php
+  session_start();
+if(isset($_SESSION["uid"])){
+ // session_start();
+}
+else{
+header('Location: ../index.html'.$_SESSION["uid"]);
+
+
+}
+?>
+<html>
+<head>
+  <!-- Site made with Mobirise Website Builder v4.3.4, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v4.3.4, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="assets/images/ibx-2-304x290.png" type="image/x-icon">
+  <meta name="description" content="Web Builder Description">
+  <title>Instagram Hacking</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/soundcloud-plugin/style.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/animate.css/animate.min.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+</head>
+<body>
+<section class="menu cid-qyvZvAATCr" once="menu" id="menu1-1f" data-rv-view="517">
+
+    
+
+    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm bg-color transparent">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </button>
+        <div class="menu-logo">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    <a href="index.php">
+                         <img src="assets/images/ibx-2-304x290.png" alt="IBEX" title="" media-simple="true" style="height: 3.8rem;">
+                    </a>
+                </span>
+                
+            </div>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent" align="justify-content-md-center">
+            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item">
+                </li><li class="nav-item"><a class="nav-link link text-black display-4" href="page1.php"><span class="mbri-play mbr-iconfont mbr-iconfont-btn"></span>
+                        &nbsp;YOUTUBE &nbsp;&nbsp;</a></li><li class="nav-item dropdown"><a class="nav-link link text-black dropdown-toggle display-4" href="page1.php" data-toggle="dropdown-submenu" aria-expanded="false"><span class="mbri-mobile mbr-iconfont mbr-iconfont-btn"></span>PRODUCT&nbsp;</a><div class="dropdown-menu"><a class="text-black dropdown-item display-4" href="page3.php"><span class="mbri-code mbr-iconfont mbr-iconfont-btn"></span>SOFTWARES</a><a class="text-black dropdown-item display-4" href="page2new.php"><span class="mbri-mobile mbr-iconfont mbr-iconfont-btn"></span>GADGETS</a><a class="text-black dropdown-item display-4" href="page1.php" aria-expanded="false"></a></div></li><li class="nav-item">
+                    <a class="nav-link link text-black display-4" href="cart.php"><span class="mbri-shopping-cart mbr-iconfont mbr-iconfont-btn"></span>
+                        &nbsp;CART</a>
+                </li><li class="nav-item"><a class="nav-link link text-black display-4" href="logout.php" aria-expanded="true"><span class="mbri-logout mbr-iconfont mbr-iconfont-btn"></span>LOGOUT&nbsp;</a></li></ul>
+            </div>
+    </nav>
+</section>
+
+<section class="engine"><a href="https://mobirise.co/h">how to make a website</a></section><section class="header1 cid-qyX3WohK6H mbr-parallax-background" id="header1-1g" data-rv-view="519">
+
+    
+
+    
+
+    <div class="container">
+        <div class="row justify-content-md-center">
+            <div class="mbr-white col-md-10">
+                <h1 class="mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style display-2"></h1>
+                <h3 class="mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style display-2">INSTAGRAM HACKING<br></h3>
+                <p class="mbr-text align-center pb-3 mbr-fonts-style display-5"></p>
+                <div class="mbr-section-btn align-center"><a class="btn btn-md btn-black-outline display-4" href="https://youtube.com/c/ibextech"><span class="mbrib-play mbr-iconfont mbr-iconfont-btn"></span>
+                        VISIT CHANNEL</a></div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<section class="mbr-section article content10 cid-qyXLRO4X1Z" id="content10-1h" data-rv-view="522">
+    
+     
+
+    <div class="container">
+        <div class="inner-container" style="width: 66%;">
+            <hr class="line" style="width: 25%;">
+            <div class="section-text align-center mbr-white mbr-fonts-style display-5">Hacking Instagram accounts by Phishing method!</div>
+            <hr class="line" style="width: 25%;">
+        </div>
+    </div>
+</section>
+
+<section class="cid-qyXMeKoTKD" id="video3-1i" data-rv-view="524">
+
+    
+    
+    <figure class="mbr-figure align-center container">
+        <div class="video-block" style="width: 80%;">
+            <div><iframe class="mbr-embedded-video" src="https://www.youtube.com/embed/Io_GcsAvFL0?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0" width="1280" height="720" frameborder="0" allowfullscreen></iframe></div>
+        </div>
+    </figure>
+</section>
+
+<section class="cid-qz2uj7hNV6 mbr-reveal" id="footer1-2h" data-rv-view="526">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row content text-white">
+            <div class="col-12 col-md-3">
+                <div class="media-wrap">
+                    <a href="https://mobirise.com/">
+                        <img src="assets/images/ibx-2-304x2900.png" alt="Mobirise" title="" media-simple="true">
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Location</h5>
+                <p class="mbr-text">Mumbai, India</p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Contacts
+                </h5>
+                <p class="mbr-text">
+                    Email: hillstudio.services@gmail.com&nbsp;<br>Phone: +91 9167005920&nbsp;<br></p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Links
+                </h5>
+                <p class="mbr-text"><a class="text-primary" href="http://youtube.com/c/ibextech">Youtube Channel</a></p>
+            </div>
+        </div>
+        <div class="footer-lower">
+            <div class="media-container-row">
+                <div class="col-sm-12">
+                    <hr>
+                </div>
+            </div>
+            <div class="media-container-row mbr-white">
+                <div class="col-sm-6 copyright">
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        © Copyright 2017 Ibex - All Rights Reserved
+                    </p>
+                </div>
+                <div class="col-md-6">
+                    <div class="social-list align-right">
+                        <div class="soc-item">
+                            <a href="https://youtube.com/c/ibextech" target="_blank">
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-youtube socicon" media-simple="true"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.facebook.com/ibexsocial/" target="_blank">
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon" media-simple="true"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.instagram.com/ibex.social" target="_blank">
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-instagram socicon" media-simple="true"></span>
+                            </a>
+                        </div>
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/popper/popper.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smooth-scroll/smooth-scroll.js"></script>
+  <script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/viewport-checker/jquery.viewportchecker.js"></script>
+  <script src="assets/jarallax/jarallax.min.js"></script>
+  <script src="assets/dropdown/js/script.min.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  
+  
+  <input name="animation" type="hidden">
+  </body>
+</html>

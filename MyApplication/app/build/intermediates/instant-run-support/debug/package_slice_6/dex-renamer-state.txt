@@ -1,0 +1,4 @@
+#Sun Feb 04 11:21:48 IST 2018
+base.0=C\:\\Users\\kesha\\Desktop\\Ibex\\MyApplication\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5cf3eeb150a06f34d21ae8a27b5dc2e9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4c057056371f90eed7ee2ab4fec1c09e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\bccce45b2dc506e4a5dc99924392df04\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d68d70781c5612f9e8fe7b6ec27403b9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7a68e3fd15d5faba089b315f65b09998\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\3750b00f603686740242801557a91ec4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0b78a8030fd3f19c3ab00428731aa24f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\f9a9782b7e6d72d1e21d8b3bca0a45c6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5307e06b8f0880d00d58801c4f0704e7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f9eae785341abd0b0fbd1420670f192d\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5cf3eeb150a06f34d21ae8a27b5dc2e9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5cf3eeb150a06f34d21ae8a27b5dc2e9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4c057056371f90eed7ee2ab4fec1c09e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4c057056371f90eed7ee2ab4fec1c09e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\bccce45b2dc506e4a5dc99924392df04\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\bccce45b2dc506e4a5dc99924392df04\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d68d70781c5612f9e8fe7b6ec27403b9\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d68d70781c5612f9e8fe7b6ec27403b9\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7a68e3fd15d5faba089b315f65b09998\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7a68e3fd15d5faba089b315f65b09998\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\3750b00f603686740242801557a91ec4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\3750b00f603686740242801557a91ec4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0b78a8030fd3f19c3ab00428731aa24f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0b78a8030fd3f19c3ab00428731aa24f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\f9a9782b7e6d72d1e21d8b3bca0a45c6\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\f9a9782b7e6d72d1e21d8b3bca0a45c6\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5307e06b8f0880d00d58801c4f0704e7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5307e06b8f0880d00d58801c4f0704e7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f9eae785341abd0b0fbd1420670f192d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f9eae785341abd0b0fbd1420670f192d\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:11:9-40
+activity#ibex.com.it_1598038_1.MainActivity
+ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5cf3eeb150a06f34d21ae8a27b5dc2e9\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5cf3eeb150a06f34d21ae8a27b5dc2e9\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4c057056371f90eed7ee2ab4fec1c09e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4c057056371f90eed7ee2ab4fec1c09e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\bccce45b2dc506e4a5dc99924392df04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\bccce45b2dc506e4a5dc99924392df04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d68d70781c5612f9e8fe7b6ec27403b9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d68d70781c5612f9e8fe7b6ec27403b9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7a68e3fd15d5faba089b315f65b09998\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7a68e3fd15d5faba089b315f65b09998\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\3750b00f603686740242801557a91ec4\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\3750b00f603686740242801557a91ec4\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0b78a8030fd3f19c3ab00428731aa24f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0b78a8030fd3f19c3ab00428731aa24f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\f9a9782b7e6d72d1e21d8b3bca0a45c6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\f9a9782b7e6d72d1e21d8b3bca0a45c6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5307e06b8f0880d00d58801c4f0704e7\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5307e06b8f0880d00d58801c4f0704e7\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f9eae785341abd0b0fbd1420670f192d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f9eae785341abd0b0fbd1420670f192d\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5cf3eeb150a06f34d21ae8a27b5dc2e9\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kesha\Desktop\Ibex\MyApplication\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5cf3eeb150a06f34d21ae8a27b5dc2e9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\bccce45b2dc506e4a5dc99924392df04\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\bccce45b2dc506e4a5dc99924392df04\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d68d70781c5612f9e8fe7b6ec27403b9\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\d68d70781c5612f9e8fe7b6ec27403b9\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7a68e3fd15d5faba089b315f65b09998\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\7a68e3fd15d5faba089b315f65b09998\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\3750b00f603686740242801557a91ec4\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\3750b00f603686740242801557a91ec4\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0b78a8030fd3f19c3ab00428731aa24f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\0b78a8030fd3f19c3ab00428731aa24f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\f9a9782b7e6d72d1e21d8b3bca0a45c6\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\f9a9782b7e6d72d1e21d8b3bca0a45c6\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5307e06b8f0880d00d58801c4f0704e7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\5307e06b8f0880d00d58801c4f0704e7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f9eae785341abd0b0fbd1420670f192d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f9eae785341abd0b0fbd1420670f192d\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5cf3eeb150a06f34d21ae8a27b5dc2e9\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kesha\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\5cf3eeb150a06f34d21ae8a27b5dc2e9\AndroidManifest.xml:26:9-47

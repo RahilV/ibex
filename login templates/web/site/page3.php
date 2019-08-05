@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<?php
+session_start();
+if(isset($_SESSION["uid"])){
+ // session_start();
+}
+else{
+header('Location: ../index.html'.$_SESSION["uid"]);
+
+
+}
+?>
+<html>
+<head>
+  <!-- Site made with Mobirise Website Builder v4.3.4, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v4.3.4, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="assets/images/ibx-2-304x290.png" type="image/x-icon">
+  <meta name="description" content="Web Site Maker Description">
+  <title>Software</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/soundcloud-plugin/style.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/animate.css/animate.min.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+</head>
+<body>
+<section class="menu cid-qyvZvAATCr" once="menu" id="menu1-1a" data-rv-view="500">
+
+    
+
+    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm bg-color transparent">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </button>
+        <div class="menu-logo">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    <a href="index.php">
+                         <img src="assets/images/ibx-2-304x290.png" alt="IBEX" title="" media-simple="true" style="height: 3.8rem;">
+                    </a>
+                </span>
+                
+            </div>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent" align="justify-content-md-center">
+            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item">
+                </li><li class="nav-item"><a class="nav-link link text-black display-4" href="page1.php"><span class="mbri-play mbr-iconfont mbr-iconfont-btn"></span>
+                        &nbsp;YOUTUBE &nbsp;&nbsp;</a></li><li class="nav-item dropdown"><a class="nav-link link text-black dropdown-toggle display-4" href="page1.php" data-toggle="dropdown-submenu" aria-expanded="false"><span class="mbri-mobile mbr-iconfont mbr-iconfont-btn"></span>PRODUCT&nbsp;</a><div class="dropdown-menu"><a class="text-black dropdown-item display-4" href="page3.php"><span class="mbri-code mbr-iconfont mbr-iconfont-btn"></span>SOFTWARES</a><a class="text-black dropdown-item display-4" href="page2new.php"><span class="mbri-mobile mbr-iconfont mbr-iconfont-btn"></span>GADGETS</a><a class="text-black dropdown-item display-4" href="page1.php" aria-expanded="false"></a></div></li><li class="nav-item">
+                    <a class="nav-link link text-black display-4" href="cart.php"><span class="mbri-shopping-cart mbr-iconfont mbr-iconfont-btn"></span>
+                        &nbsp;CART</a>
+                </li><li class="nav-item"><a class="nav-link link text-black display-4" href="logout.php" aria-expanded="true"><span class="mbri-logout mbr-iconfont mbr-iconfont-btn"></span>LOGOUT&nbsp;</a></li></ul>
+            </div>
+    </nav>
+</section>
+
+<section class="engine"><a href="https://mobirise.co/q">bootstrap slideshow</a></section><section class="header1 cid-qyTW051bTz mbr-parallax-background" id="header1-1b" data-rv-view="502">
+
+    
+
+    
+
+    <div class="container">
+        <div class="row justify-content-md-center">
+            <div class="mbr-white col-md-10">
+                <h1 class="mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style display-2"></h1>
+                <h3 class="mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style display-2">SOFTWARES AND PROGRAMS</h3>
+                <p class="mbr-text align-center pb-3 mbr-fonts-style display-5"></p>
+                
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<section class="tabs3 cid-qyTYGwUbnJ" id="tabs3-1e" data-rv-view="505">
+
+    
+
+    
+
+    <div class="container">
+        <h2 class="mbr-section-title align-center pb-3 mbr-fonts-style display-5">EXCLUSIVE FREEWARES BOUGHT TO BY IBEX</h2>
+        <h3 class="mbr-section-subtitle  display-5 align-center mbr-light mbr-fonts-style">We have collected bunch of free softwares and also developed some programs that a quite unique and useful</h3>
+    </div>
+    <div class="container-fluid">
+        <div class="row tabcont">
+            <ul class="nav nav-tabs pt-3 mt-5" role="tablist">
+                <li class="nav-item mbr-fonts-style"><a class="nav-link active display-4" role="tab" data-toggle="tab" href="#tabs3-1e_tab0" aria-expanded="true">doodle</a></li>
+                
+                
+                
+                
+                
+            </ul>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row px-1">
+            <div class="tab-content">
+                <div id="tab1" class="tab-pane in active mbr-table" role="tabpanel">
+                    <div class="row tab-content-row">
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="card-img ">
+                                <span class="mbri-responsive mbr-iconfont" media-simple="true"></span>
+                            </div>
+                            <h4 class="mbr-element-title  align-center mbr-fonts-style pb-2 display-5">INNOVATIVE</h4>
+                            <p class="mbr-section-text  align-center mbr-fonts-style display-7"></p>
+                        </div>
+
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="card-img ">
+                                <span class="mbr-iconfont mbri-close" media-simple="true"></span>
+                            </div>
+                            <h4 class="mbr-element-title  align-center mbr-fonts-style pb-2 display-5">
+                                MINIMALISTIC</h4>
+                            <p class="mbr-section-text  align-center mbr-fonts-style display-7"></p>
+                        </div>
+
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="card-img ">
+                                <span class="mbr-iconfont mbri-cash" media-simple="true"></span>
+                            </div>
+                            <h4 class="mbr-element-title  align-center mbr-fonts-style pb-2 display-5">
+                                FREE</h4>
+                            <p class="mbr-section-text  align-center mbr-fonts-style display-7"></p>
+                        </div>
+
+                        
+                    </div>
+                </div>
+
+                <div id="tab2" class="tab-pane  mbr-table" role="tabpanel">
+                    <div class="row tab-content-row">
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="card-img ">
+                                <span class="mbri-bootstrap mbr-iconfont" media-simple="true"></span>
+                            </div>
+                            <h4 class="mbr-element-title  align-center mbr-fonts-style pb-2 display-5">
+                                IT'S EASY AND SIMPLE
+                            </h4>
+                            <p class="mbr-section-text  align-center mbr-fonts-style display-7">
+                                Cut down the development time with drag-and-drop website builder. Drop the blocks into the page, edit content inline and publish - no technical skills required.
+                            </p>
+                        </div>
+
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="card-img ">
+                                <span class="mbri-bootstrap mbr-iconfont" media-simple="true"></span>
+                            </div>
+                            <h4 class="mbr-element-title  align-center mbr-fonts-style pb-2 display-5">
+                                IT'S EASY AND SIMPLE
+                            </h4>
+                            <p class="mbr-section-text  align-center mbr-fonts-style display-7">
+                                Cut down the development time with drag-and-drop website builder. Drop the blocks into the page, edit content inline and publish - no technical skills required.
+                            </p>
+                        </div>
+
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="card-img ">
+                                <span class="mbri-bootstrap mbr-iconfont" media-simple="true"></span>
+                            </div>
+                            <h4 class="mbr-element-title  align-center mbr-fonts-style pb-2 display-5">
+                                IT'S EASY AND SIMPLE
+                            </h4>
+                            <p class="mbr-section-text  align-center mbr-fonts-style display-7">
+                                Cut down the development time with drag-and-drop website builder. Drop the blocks into the page, edit content inline and publish - no technical skills required.
+                            </p>
+                        </div>
+
+                        
+                    </div>
+                </div>
+
+                <div id="tab3" class="tab-pane  mbr-table" role="tabpanel">
+                    <div class="row tab-content-row">
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="card-img ">
+                                <span class="mbri-extension mbr-iconfont" media-simple="true"></span>
+                            </div>
+                            <h4 class="mbr-element-title  align-center mbr-fonts-style pb-2 display-5">
+                                Simple</h4>
+                            <p class="mbr-section-text  align-center mbr-fonts-style display-7">
+                                Choose from the large selection  pre-made blocks - full-screen intro, bootstrap carousel, slider, responsive image gallery with, parallax scrolling, sticky header and more.
+                            </p>
+                        </div>
+
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="card-img ">
+                                <span class="mbri-extension mbr-iconfont" media-simple="true"></span>
+                            </div>
+                            <h4 class="mbr-element-title  align-center mbr-fonts-style pb-2 display-5">
+                                Effective</h4>
+                            <p class="mbr-section-text  align-center mbr-fonts-style display-7">
+                                Choose from the large selection  pre-made blocks - full-screen intro, bootstrap carousel, slider, responsive image gallery with, parallax scrolling, sticky header and more.
+                            </p>
+                        </div>
+
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="card-img ">
+                                <span class="mbri-extension mbr-iconfont" media-simple="true"></span>
+                            </div>
+                            <h4 class="mbr-element-title  align-center mbr-fonts-style pb-2 display-5">
+                                Free</h4>
+                            <p class="mbr-section-text  align-center mbr-fonts-style display-7">
+                                Choose from the large selection  pre-made blocks - full-screen intro, bootstrap carousel, slider, responsive image gallery with, parallax scrolling, sticky header and more.
+                            </p>
+                        </div>
+
+                        
+                    </div>
+                </div>
+
+                <div id="tab4" class="tab-pane  mbr-table" role="tabpanel">
+                    <div class="row tab-content-row">
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="card-img ">
+                                <span class="mbri-responsive mbr-iconfont" media-simple="true"></span>
+                            </div>
+                            <h4 class="mbr-element-title  align-center mbr-fonts-style pb-2 display-5">
+                                MOBILE FRIENDLY
+                            </h4>
+                            <p class="mbr-section-text  align-center mbr-fonts-style display-7">
+                                No special actions required, all sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site, it will adapt automagically.
+                            </p>
+                        </div>
+
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="card-img ">
+                                <span class="mbri-responsive mbr-iconfont" media-simple="true"></span>
+                            </div>
+                            <h4 class="mbr-element-title  align-center mbr-fonts-style pb-2 display-5">
+                                MOBILE FRIENDLY
+                            </h4>
+                            <p class="mbr-section-text  align-center mbr-fonts-style display-7">
+                                No special actions required, all sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site, it will adapt automagically.
+                            </p>
+                        </div>
+
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="card-img ">
+                                <span class="mbri-responsive mbr-iconfont" media-simple="true"></span>
+                            </div>
+                            <h4 class="mbr-element-title  align-center mbr-fonts-style pb-2 display-5">
+                                MOBILE FRIENDLY
+                            </h4>
+                            <p class="mbr-section-text  align-center mbr-fonts-style display-7">
+                                No special actions required, all sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site, it will adapt automagically.
+                            </p>
+                        </div>
+
+                        
+                    </div>
+                </div>
+
+                <div id="tab5" class="tab-pane  mbr-table" role="tabpanel">
+                    <div class="row tab-content-row">
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="card-img ">
+                                <span class="mbri-bootstrap mbr-iconfont" media-simple="true"></span>
+                            </div>
+                            <h4 class="mbr-element-title  align-center mbr-fonts-style pb-2 display-5">
+                                IT'S EASY AND SIMPLE
+                            </h4>
+                            <p class="mbr-section-text  align-center mbr-fonts-style display-7">
+                                Cut down the development time with drag-and-drop website builder. Drop the blocks into the page, edit content inline and publish - no technical skills required.
+                            </p>
+                        </div>
+
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="card-img ">
+                                <span class="mbri-bootstrap mbr-iconfont" media-simple="true"></span>
+                            </div>
+                            <h4 class="mbr-element-title  align-center mbr-fonts-style pb-2 display-5">
+                                IT'S EASY AND SIMPLE
+                            </h4>
+                            <p class="mbr-section-text  align-center mbr-fonts-style display-7">
+                                Cut down the development time with drag-and-drop website builder. Drop the blocks into the page, edit content inline and publish - no technical skills required.
+                            </p>
+                        </div>
+
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="card-img ">
+                                <span class="mbri-bootstrap mbr-iconfont" media-simple="true"></span>
+                            </div>
+                            <h4 class="mbr-element-title  align-center mbr-fonts-style pb-2 display-5">
+                                IT'S EASY AND SIMPLE
+                            </h4>
+                            <p class="mbr-section-text  align-center mbr-fonts-style display-7">
+                                Cut down the development time with drag-and-drop website builder. Drop the blocks into the page, edit content inline and publish - no technical skills required.
+                            </p>
+                        </div>
+
+                        
+                    </div>
+                </div>
+
+                <div id="tab6" class="tab-pane  mbr-table" role="tabpanel">
+                    <div class="row tab-content-row">
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="card-img ">
+                                <span class="mbri-extension mbr-iconfont" media-simple="true"></span>
+                            </div>
+                            <h4 class="mbr-element-title  align-center mbr-fonts-style pb-2 display-5">
+                                TRENDY WEBSITE BLOCKS
+                            </h4>
+                            <p class="mbr-section-text  align-center mbr-fonts-style display-7">
+                                Choose from the large selection  pre-made blocks - full-screen intro, bootstrap carousel, slider, responsive image gallery with, parallax scrolling, sticky header and more.
+                            </p>
+                        </div>
+
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="card-img ">
+                                <span class="mbri-extension mbr-iconfont" media-simple="true"></span>
+                            </div>
+                            <h4 class="mbr-element-title  align-center mbr-fonts-style pb-2 display-5">
+                                TRENDY WEBSITE BLOCKS
+                            </h4>
+                            <p class="mbr-section-text  align-center mbr-fonts-style display-7">
+                                Choose from the large selection  pre-made blocks - full-screen intro, bootstrap carousel, slider, responsive image gallery with, parallax scrolling, sticky header and more.
+                            </p>
+                        </div>
+
+                        <div class="col-xs-12 col-md-6 col-lg-4">
+                            <div class="card-img ">
+                                <span class="mbri-extension mbr-iconfont" media-simple="true"></span>
+                            </div>
+                            <h4 class="mbr-element-title  align-center mbr-fonts-style pb-2 display-5">
+                                TRENDY WEBSITE BLOCKS
+                            </h4>
+                            <p class="mbr-section-text  align-center mbr-fonts-style display-7">
+                                Choose from the large selection  pre-made blocks - full-screen intro, bootstrap carousel, slider, responsive image gallery with, parallax scrolling, sticky header and more.
+                            </p>
+                        </div>
+
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="features3 cid-qyYdd0ONfb" id="features3-2a" data-rv-view="508">
+
+    
+
+    
+    <div class="container">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/unity3d-1200x630.jpg" alt="Mobirise" title="" media-simple="true">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-7">Unity 3D</h4>
+                        <p class="mbr-text mbr-fonts-style display-7">Unity3D is a powerful cross-platform 3D engine and a user friendly development environment. We can create 3D games and applications for mobile, desktop, the web, and consoles.</p>
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://unity3d.com/get-unity/download" class="btn btn-primary display-4"><span class="mbri-arrow-down mbr-iconfont mbr-iconfont-btn"></span>Download&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/audacity-433x116.png" alt="Mobirise" title="" media-simple="true">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-7"><br><br><br><br><br><br>Audacity</h4>
+                        <p class="mbr-text mbr-fonts-style display-7">Audacity is a free open source digital audio editor and recording computer software application, available for Windows, OS X, Linux and other operating systems.</p>
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="http://www.audacityteam.org/download/" class="btn btn-primary display-4"><span class="mbri-arrow-down mbr-iconfont mbr-iconfont-btn"></span>Download &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/hf-1586x367.png" alt="Mobirise" title="" media-simple="true">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-7">
+                            <br><br><br><br><br><br>HitFilm<br><br><br>HitFilm Pro 2017 gives you the power to bring<br>your story to life – with professional editing <br>tools, 3D superpowers and over 500 stunning <br>visual effects and presets.</h4>
+                        <p class="mbr-text mbr-fonts-style display-7"></p>
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="http://www.audacityteam.org/download/" class="btn btn-primary display-4"><span class="mbri-arrow-down mbr-iconfont mbr-iconfont-btn"></span>Download &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="features3 cid-qyYdeOXXS2" id="features3-2b" data-rv-view="511">
+
+    
+
+    
+    <div class="container">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/lzw-768x432.jpg" alt="Mobirise" title="" media-simple="true">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-7">LZW Compression Techinque</h4>
+                        <p class="mbr-text mbr-fonts-style display-7">Lempel–Ziv–Welch (LZW) is a universal lossless data compression algorithm created by Abraham Lempel, Jacob Ziv, and Terry Welch. Two file formats in which LZV compression is used are the GIF image format and the TIFF image format.<br><br></p>
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://drive.google.com/file/d/0B6rQmwP7VK45T05UVDdmb2JObE0yYmVINWtLSmNNWnlyZTRF/view?usp=sharing" class="btn btn-primary display-4"><span class="mbri-arrow-down mbr-iconfont mbr-iconfont-btn"></span>Download &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/clipping.gif" alt="Mobirise" title="" media-simple="true">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-7">Clipping in Computer Graphics</h4>
+                        <p class="mbr-text mbr-fonts-style display-7">Clipping, in the context of computer graphics, is a method to selectively enable or disable rendering operations within a defined region of interest. Mathematically, clipping can be described using the terminology of constructive geometry.<br><br></p>
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://drive.google.com/file/d/0B6rQmwP7VK45bGpWV0hJVm9NdTZRVC0wbk5YYXN0OExva2Mw/view?usp=sharing" class="btn btn-primary display-4"><span class="mbri-arrow-down mbr-iconfont mbr-iconfont-btn"></span>Download</a></div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/maxresdefault-1280x720.jpg" alt="Mobirise" title="" media-simple="true">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-7">Run Length Encoding</h4>
+                        <p class="mbr-text mbr-fonts-style display-7">Run-length encoding (RLE) is a very simple form of lossless data compression in which runs of data (that is, sequences in which the same data value occurs in many consecutive data elements) are stored as a single data.<br><br><br></p>
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://drive.google.com/open?id=0B6rQmwP7VK45X2lrNExfSXVtUXZ2bThReHh4YzVEbW9DS1A4" class="btn btn-primary display-4"><span class="mbri-arrow-down mbr-iconfont mbr-iconfont-btn"></span>Download &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></div>
+                </div>
+            </div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="cid-qz2uBFCbuQ mbr-reveal" id="footer1-2k" data-rv-view="514">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row content text-white">
+            <div class="col-12 col-md-3">
+                <div class="media-wrap">
+                    <a href="https://mobirise.com/">
+                        <img src="assets/images/ibx-2-304x2900.png" alt="Mobirise" title="" media-simple="true">
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Location</h5>
+                <p class="mbr-text">Mumbai, India</p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Contacts
+                </h5>
+                <p class="mbr-text">
+                    Email: hillstudio.services@gmail.com&nbsp;<br>Phone: +91 9167005920&nbsp;<br></p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Links
+                </h5>
+                <p class="mbr-text"><a class="text-primary" href="http://youtube.com/c/ibextech">Youtube Channel</a></p>
+            </div>
+        </div>
+        <div class="footer-lower">
+            <div class="media-container-row">
+                <div class="col-sm-12">
+                    <hr>
+                </div>
+            </div>
+            <div class="media-container-row mbr-white">
+                <div class="col-sm-6 copyright">
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        © Copyright 2017 Ibex - All Rights Reserved
+                    </p>
+                </div>
+                <div class="col-md-6">
+                    <div class="social-list align-right">
+                        <div class="soc-item">
+                            <a href="https://youtube.com/c/ibextech" target="_blank">
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-youtube socicon" media-simple="true"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.facebook.com/ibexsocial/" target="_blank">
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon" media-simple="true"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.instagram.com/ibex.social" target="_blank">
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-instagram socicon" media-simple="true"></span>
+                            </a>
+                        </div>
+                        
+                        
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/popper/popper.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smooth-scroll/smooth-scroll.js"></script>
+  <script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/viewport-checker/jquery.viewportchecker.js"></script>
+  <script src="assets/jarallax/jarallax.min.js"></script>
+  <script src="assets/dropdown/js/script.min.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  
+  
+  <input name="animation" type="hidden">
+  </body>
+</html>
