@@ -1,11 +1,11 @@
 <?php
 //error_reporting(0);
 class DBController {
-	private $host = "localhost";
-	private $user = "root";
-	private $password = "";
-	private $database = "ibexcart";
-	private $conn;
+	private $host = "remotemysql.com";
+	private $user = "yzPIJJhfyI";
+	private $password = "PYxXR2mYdS";
+	private $database = "yzPIJJhfyI";
+	public $conn;
 	
 	function __construct() {
 		$this->conn = $this->connectDB();
@@ -13,6 +13,7 @@ class DBController {
 	
 	function connectDB() {
 		$conn = mysqli_connect($this->host,$this->user,$this->password,$this->database);
+		
 		return $conn;
 	}
 	
@@ -30,5 +31,8 @@ class DBController {
 		$rowcount = mysqli_num_rows($result);
 		return $rowcount;	
 	}
+
+
 }
+
 ?>

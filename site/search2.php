@@ -13,13 +13,8 @@ header('Location: ../index.html'.$_SESSION["uid"]);
 }
   include("dbcontroller.php");
   $db_handle = new DBController();
-  $mysqli = new mysqli("localhost", "root", "", "ibexcart");
-  
-   define('DB_SERVER', 'localhost');
-   define('DB_USERNAME', 'root');
-   define('DB_PASSWORD', '');
-   define('DB_DATABASE', 'ibexcart');
-   $db = mysqli_connect(DB_SERVER,DB_USERNAME,DB_PASSWORD,DB_DATABASE);
+    $mysqli = new mysqli("remotemysql.com", "yzPIJJhfyI", "PYxXR2mYdS", "yzPIJJhfyI",3306);
+   $db = new mysqli("remotemysql.com", "yzPIJJhfyI", "PYxXR2mYdS", "yzPIJJhfyI",3306);
    $sc = mysqli_real_escape_string($db,$_POST['search']);
    if(!isset($_SESSION)){
 	header('Location: ../index.html');

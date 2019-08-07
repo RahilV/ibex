@@ -5,7 +5,8 @@ session_start();
 //require_once("dbcontroller.php");
 include("dbcontroller.php");
 $db_handle = new DBController();
- $mysqli = new mysqli("localhost", "root", "", "ibexcart");
+   $mysqli = new mysqli("remotemysql.com", "yzPIJJhfyI", "PYxXR2mYdS", "yzPIJJhfyI",3306);
+
 ?>
 <html>
 <head>

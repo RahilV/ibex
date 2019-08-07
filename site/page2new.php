@@ -5,7 +5,7 @@
 session_start();
   include("dbcontroller.php");
   $db_handle = new DBController();
-  $mysqli = new mysqli("localhost", "root", "", "ibexcart");
+  $db = new mysqli("remotemysql.com", "yzPIJJhfyI", "PYxXR2mYdS", "yzPIJJhfyI",3306);
 if(isset($_SESSION["uid"])){
  // session_start();
 }
