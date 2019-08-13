@@ -118,7 +118,7 @@ $db_handle = new DBController();
 </tr> 
 <?php 
     
-   $getit= $mysqli->query("SELECT product_id FROM cart_items WHERE user_id=4");
+   $getit= $mysqli->query("SELECT product_id FROM cart_items WHERE user_id='{$_SESSION['uid']}');
 
     //$getit = $db_handle->runQuery("SELECT product_id FROM cart_items WHERE user_id=4");
     $rset = array();
