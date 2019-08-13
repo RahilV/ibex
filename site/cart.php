@@ -107,7 +107,7 @@ $db_handle = new DBController();
 
 <section class="mbr-section article content9 cid-qyNO6jaYxV" id="content9-u" data-rv-view="481">
     
-<table cellpadding="10" cellspacing="1" class="table table-striped">
+<table class="table table-striped"  cellpadding="10" cellspacing="1">
 <thead thead-dark>
 <tr>
 <th style="text-align: left;"><strong></strong></th>
