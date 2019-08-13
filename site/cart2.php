@@ -1,5 +1,15 @@
 <!DOCTYPE html>
 <?php
+session_start();
+if(isset($_SESSION["uid"])){
+ // session_start();
+
+}
+else{
+
+header('Location: ../index.html?'.$_SESSION["uid"]);
+
+}
 error_reporting(E_ERROR | E_PARSE);
 session_start();
 //require_once("dbcontroller.php");
