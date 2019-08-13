@@ -46,6 +46,21 @@ $db_handle = new DBController();
   
   
 </head>
+<style>
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+</style>
 <body>
 <section class="menu cid-qyvZvAATCr" once="menu" id="menu1-j" data-rv-view="473">
 
@@ -104,7 +119,7 @@ $db_handle = new DBController();
 
 
 <section class="mbr-section article content9 cid-qyNO6jaYxV" id="content9-u" data-rv-view="481">
-    
+<div style="overflow-x:auto;">
 <table cellpadding="10" cellspacing="1" class="w3-table-all w3-card-4">
 <tbody>
 <tr>
@@ -173,6 +188,7 @@ $i=0;
 </tr>
 </tbody>
 </table>
+</div>
 <div align="right" style="padding-right: 35px;padding-top: 20px;">
   <form action="checkout.php">
 <input type="submit" name="" value="CHECKOUT" align="right" class="btn btn-md btn-secondary display-4"/>
