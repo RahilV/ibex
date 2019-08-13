@@ -1,19 +1,22 @@
 <!DOCTYPE html>
 <?php
-error_reporting(E_ERROR | E_PARSE);
 session_start();
-  include("dbcontroller.php");
-  $db_handle = new DBController();
-  $mysqli = new mysqli("localhost", "root", "", "ibexcart");
 if(isset($_SESSION["uid"])){
  // session_start();
 
 }
 else{
-header('Location: ../index.html'.$_SESSION["uid"]);
 
+header('Location: ../index.html?'.$_SESSION["uid"]);
 
 }
+error_reporting(E_ERROR | E_PARSE);
+session_start();
+//require_once("dbcontroller.php");
+include("dbcontroller.php");
+$db_handle = new DBController();
+   $mysqli = new mysqli("remotemysql.com", "yzPIJJhfyI", "PYxXR2mYdS", "yzPIJJhfyI",3306);
+
 ?>
 <html>
 <head>
