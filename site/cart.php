@@ -107,8 +107,8 @@ $db_handle = new DBController();
 
 <section class="mbr-section article content9 cid-qyNO6jaYxV" id="content9-u" data-rv-view="481">
     
-<table cellpadding="10" cellspacing="1" class="table table">
-<tbody>
+<table cellpadding="10" cellspacing="1" class="table table-striped">
+<thead thead-dark>
 <tr>
 <th style="text-align: left;"><strong></strong></th>
 <th style="text-align:left;"><strong>Name</strong></th>
@@ -117,6 +117,8 @@ $db_handle = new DBController();
 <th style="text-align:right;"><strong>Price</strong></th>
 <th style="text-align:center;"><strong>Action</strong></th>
 </tr> 
+</thead>
+<tbody>
 <?php 
     
    $getit= $mysqli->query("SELECT product_id FROM cart_items WHERE user_id='{$_SESSION['uid']}'");
