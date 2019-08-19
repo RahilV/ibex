@@ -33,9 +33,13 @@ body{
 	text-align: center;
 	font-family:Nunito-Light;
 	background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
-    width: 100%;
+    background-repeat:no-repeat;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	/*-o-background-size:cover;*/
+	background-size:cover;
+	background-position:center;
+    width: auto;
     height: auto;
 }
 
