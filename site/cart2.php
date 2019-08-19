@@ -46,6 +46,21 @@ $db_handle = new DBController();
   
   
 </head>
+<style>
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+</style>
 <body>
 <section class="menu cid-qyvZvAATCr" once="menu" id="menu1-j" data-rv-view="473">
 
@@ -203,7 +218,7 @@ $i=0;
                     Contacts
                 </h5>
                 <p class="mbr-text">
-                    Email: hillstudio.services@gmail.com&nbsp;<br>Phone: +91 9167005920&nbsp;<br></p>
+                    Email: hillstudio.services@gmail.com&nbsp;</p>
             </div>
             <div class="col-12 col-md-3 mbr-fonts-style display-7">
                 <h5 class="pb-3">
