@@ -142,7 +142,7 @@ if (!empty($product_array)) {
   
     <div class="col-lg-4" style="padding-top: 10px;">
       <div class="mbr-gallery-item mbr-gallery-item--pNaN" data-video-url="false" data-tags="Animated">
-        <div href="#lb-gallery3-2t" data-slide-to="3" data-toggle="modal" align="center">
+        <div href="#lb-gallery3-2t" data-slide-to="3" data-toggle="modal" align="center" style="height:300px">
           <img src="<?php echo $product_array[$key]["image"]; ?>" alt="" height="50%" width="50%">
           <div align="center"><strong><?php echo $product_array[$key]["name"]; ?></strong></div>
           <div class="product-price" align="align-center"><?php echo "₹".$product_array[$key]["price"]; ?></div>
