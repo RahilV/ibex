@@ -140,7 +140,7 @@ if (!empty($product_array)) {
   
   ?>
   
-    <div class="col-lg-4" style="padding-top: 10px">
+    <div class="col-lg-4" style="padding-top: 10px;height:200px">
       <div class="mbr-gallery-item mbr-gallery-item--pNaN" data-video-url="false" data-tags="Animated">
         <div href="#lb-gallery3-2t" data-slide-to="3" data-toggle="modal" align="center">
           <img src="<?php echo $product_array[$key]["image"]; ?>" alt="" height="50%" width="50%">
