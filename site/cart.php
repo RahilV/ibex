@@ -155,7 +155,7 @@ $i=0;
         while($item = mysqli_fetch_assoc($geti)){
     ?>
         <tr>
-        <td style="text-align:left;border-bottom:#F0F0F0 1px solid;"><img src="<?php echo $product_array [$i]["image"]; ?>" alt="" height="150"></td>
+        <td style="text-align:left;border-bottom:#F0F0F0 1px solid;"><div style="width:300px;height:auto"><img src="<?php echo $product_array [$i]["image"]; ?>" alt="" height="150"></div></td>
         <td style="text-align:left;border-bottom:#F0F0F0 1px solid;"><strong><?php echo $item["name"]; ?></strong></td>
         <td style="text-align:left;border-bottom:#F0F0F0 1px solid;"><?php echo $item["code"]; ?></td>
         <?php
