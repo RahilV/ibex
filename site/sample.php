@@ -105,7 +105,8 @@ header('Location: cart.php');
 	
 	break;	
 
-	default: echo "STUCK";
+	default: header('Location: cart.php');
 }
 }
+header('Location: cart.php');
 ?>
