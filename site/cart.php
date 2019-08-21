@@ -125,10 +125,10 @@ tr:nth-child(even){background-color: #f2f2f2}
 <tr>
 <th style="text-align: left;"><strong></strong></th>
 <th style="text-align:left;"><strong>Name</strong></th>
-<th style="text-align:left;"><strong>Code</strong></th>
 <th style="text-align:right;"><strong>Quantity</strong></th>
 <th style="text-align:right;"><strong>Price</strong></th>
 <th style="text-align:center;"><strong>Action</strong></th>
+<th></th>
 </tr> 
 <?php 
     
@@ -156,8 +156,8 @@ $i=0;
     ?>
         <tr>
         <td style="text-align:left;border-bottom:#F0F0F0 1px solid;"><div style="width:300px;height:auto"><img src="<?php echo $product_array [$i]["image"]; ?>" alt="" height="150"></div></td>
-        <td style="text-align:left;border-bottom:#F0F0F0 1px solid;"><strong><?php echo $item["name"]; ?></strong></td>
-        <td style="text-align:left;border-bottom:#F0F0F0 1px solid;"><?php echo $item["code"]; ?></td>
+        <td style="text-align:left;border-bottom:#F0F0F0 1px solid;"><?php echo $item["name"]; ?></td>
+        
         <?php
         $getqty=$mysqli->query("SELECT quantity FROM cart_items WHERE user_id='{$_SESSION['uid']}' AND product_id ='$it[$i]'");
         while($itm = mysqli_fetch_assoc($getqty)){
@@ -169,8 +169,8 @@ $i=0;
           
         }
         ?>
-        <td style="text-align:right;border-bottom:#F0F0F0 1px solid;"><?php echo "$".$item["price"]; ?></td>
-        <td style="text-align:center;border-bottom:#F0F0F0 1px solid;"><a href="sample.php?action=remove&code=<?php echo $item["code"]; ?>" class="btnRemoveAction">Remove Item</a></td>
+        <td style="text-align:right;border-bottom:#F0F0F0 1px solid;"><?php echo "₹".$item["price"]; ?></td>
+        <td style="text-align:center;border-bottom:#F0F0F0 1px solid;"><button type="submit" class="btn btn-md btn-secondary display-4" href="sample.php?action=remove&code=<?php echo $item["code"]; ?>" class="btnRemoveAction">REMOVE ITEM</button></td>
         </tr>
         <?php
         
@@ -182,16 +182,16 @@ $i=0;
     ?>
 
 <tr>
-<td colspan="5" style="text-align: right"><strong>Total:</strong> <?php      
- echo "$".$item_total; ?></td>
- <td style="text-align: center"><a href="sample.php?action=empty">EMPTY CART</a></td>
+<td colspan="5" style="text-align: center"><strong>Total: <?php      
+ echo "₹".$item_total; ?></td><td></td></strong>
 </tr>
 </tbody>
 </table>
 </div>
-<div align="right" style="padding-right: 35px;padding-top: 20px;">
+<div align="right" style="padding-right: 100px;padding-top: 20px;">
   <form action="checkout.php">
-<input type="submit" name="" value="CHECKOUT" align="right" class="btn btn-md btn-secondary display-4"/>
+    <button type="submit" class="btn btn-md btn-secondary display-4" href="sample.php?action=empty">EMPTY CART</button>
+<button type="submit" name="" align="right" class="btn btn-md btn-secondary display-4"/>CHECKOUT</button>
 </form>
 </div>
 
