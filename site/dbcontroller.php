@@ -2,9 +2,9 @@
 //error_reporting(0);
 class DBController {
 	private $host = "remotemysql.com";
-	private $user = "yzPIJJhfyI";
-	private $password = "PYxXR2mYdS";
-	private $database = "yzPIJJhfyI";
+	private $user = "tdx5S5jGSq";
+	private $password = "AsGhBIKNG8";
+	private $database = "tdx5S5jGSq";
 	public $conn;
 	
 	function __construct() {

@@ -15,7 +15,7 @@ header('Location: ../index.html?'.$_SESSION["uid"]);
 
 include("dbcontroller.php");
 $db_handle = new DBController();
- $mysqli = new mysqli("remotemysql.com", "yzPIJJhfyI", "PYxXR2mYdS", "yzPIJJhfyI",3306);
+ $mysqli = new mysqli("remotemysql.com", "tdx5S5jGSq", "AsGhBIKNG8", "tdx5S5jGSq",3306);
 $ui=$_SESSION["uid"];
 
 if(!empty($_GET["action"])) {

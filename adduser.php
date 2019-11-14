@@ -1,7 +1,7 @@
 <?php
    include("connection.php");
    session_start();
-   $mysqli = new mysqli("localhost", "root", "", "ibexcart");
+   $mysqli = new mysqli("remotemysql.com", "tdx5S5jGSq", "AsGhBIKNG8", "tdx5S5jGSq",3306);
   if($_SERVER["REQUEST_METHOD"] == "POST") {
       // username and password sent from form 
       
